@@ -1,5 +1,8 @@
 # BossBar-STF
-Plugin BossBar para Steadfast funciona con la api de litek
+Plugin BossBar para Steadfast funciona con la api de litek(SteadBoss)
+
+API SteadBoss:
+https://github.com/LiTEKPE/SteadBoss
 
 Config
 ---
